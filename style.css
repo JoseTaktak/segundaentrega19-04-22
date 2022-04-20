@@ -3,18 +3,21 @@
     margin: 0;
 }
 
-header {
+body {
+    background-color: rosybrown;
+}
+.container {
     display: flex;
-    justify-content: space-around;
+    justify-content: end;
     size: 10px;
 }
 
 
 h1 {
     background-color: rgba(209, 209, 32, 0.664);
-    display: grid;
-    align-content: space-between;
-    justify-items: end;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
    
 }
 
@@ -28,4 +31,12 @@ h1 {
 .fizq-items {
     display: flex;
     
+}
+.foP {
+    background-color: beige;
+    
+display: flex;
+justify-content: center;
+padding: 20px;
+margin-top: 5px;
 }
