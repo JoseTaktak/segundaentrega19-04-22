@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    size: 10px;
+}
+
+
+h1 {
+    background-color: rgba(209, 209, 32, 0.664);
+    display: grid;
+    align-content: space-between;
+    justify-items: end;
+   
+}
+
+.fizq {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    size: 15px;
+}
+
+.fizq-items {
+    display: flex;
+    
+}
